@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Official Chronocraft Website
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Welcome to your news hub for everything Chronocraft
 
